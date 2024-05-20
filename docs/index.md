@@ -17,7 +17,7 @@ hide:
   url: chapters/chapter_01/
 
 - title: Tools
-  content: Guía de Programación de Gráficos con Python - Gráficos del Libro.
+  content: Guía de Gráficos con Python - Gráficos del Libro y más!.
   image: images/tools2.png
   url: tools/types_plots/
 
